@@ -1,0 +1,28 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Pixxel.media",
+    "description": "",
+    "home_page_url": "https://pixxel.media",
+    "feed_url": "https://pixxel.media/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Felice Grasso"
+    },
+    "items": [
+        {
+            "id": "https://pixxel.media/cor.html",
+            "url": "https://pixxel.media/cor.html",
+            "title": "  cor",
+            "summary": "&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; hjj kmkn",
+            "content_html": "\n    <h2 id=\"andnbsp-andnbsp-andnbsp-andnbsp-andnbsp-andnbsp-hjj\">\n      &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; hjj\n    </h2>\n\n  <p>\n    kmkn\n  </p>",
+            "image": "https://pixxel.media/media/posts/1/Schermata-del-2026-03-28-17-08-13.png",
+            "author": {
+                "name": "Felice Grasso"
+            },
+            "tags": [
+            ],
+            "date_published": "2026-04-05T11:39:51+02:00",
+            "date_modified": "2026-04-05T11:41:10+02:00"
+        }
+    ]
+}
