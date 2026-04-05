@@ -5,23 +5,10 @@
     "home_page_url": "https://pixxel.media",
     "feed_url": "https://pixxel.media/feed.json",
     "user_comment": "",
+    "icon": "https://pixxel.media/media/website/logo_nero.svg",
     "author": {
         "name": "Felice Grasso"
     },
     "items": [
-        {
-            "id": "https://pixxel.media/salve.html",
-            "url": "https://pixxel.media/salve.html",
-            "title": "Salve",
-            "summary": "gazzella che se ne va a pingere il sale",
-            "content_html": "<p>gazzella che se ne va a pingere il sale</p>",
-            "author": {
-                "name": "Felice Grasso"
-            },
-            "tags": [
-            ],
-            "date_published": "2026-04-05T19:19:51+02:00",
-            "date_modified": "2026-04-05T19:30:28+02:00"
-        }
     ]
 }
