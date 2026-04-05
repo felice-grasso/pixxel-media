@@ -3,7 +3,7 @@
     <title>Pixxel.media</title>
     <link href="https://pixxel.media/feed.xml" rel="self" />
     <link href="https://pixxel.media" />
-    <updated>2026-04-05T19:19:51+02:00</updated>
+    <updated>2026-04-05T19:30:28+02:00</updated>
     <author>
         <name>Felice Grasso</name>
     </author>
@@ -18,7 +18,15 @@
         <id>https://pixxel.media/salve.html</id>
 
         <updated>2026-04-05T19:19:51+02:00</updated>
-            <summary></summary>
-        <content></content>
+            <summary type="html">
+                <![CDATA[
+                    gazzella che se ne va a pingere il sale
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>gazzella che se ne va a pingere il sale</p>
+            ]]>
+        </content>
     </entry>
 </feed>
